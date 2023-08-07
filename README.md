@@ -1,2 +1,16 @@
 # IT1244-Additional-Materials
- Additional Materials for IT1244. 
+This repo consists of additional materials that I use for my teaching in IT1244. 
+
+## Requirements
+I do not expect my students to learn how to create the own environment.
+However, in the event you would like to replicate this, here are the requirements:
+
+NumPy, Pandas, Matplotlib, Scikitlearn, Tensorflow
+
+They are also in the requirements.txt document that I have stated.
+
+## Credits
+
+Credits to these datasets:
+https://www.kaggle.com/datasets/adityakadiwal/water-potability
+https://www.kaggle.com/datasets/camnugent/california-housing-prices 
