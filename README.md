@@ -3,11 +3,9 @@ This repo consists of additional materials that I use for my teaching in IT1244.
 
 ## Requirements
 I do not expect my students to learn how to create their own environment.
-However, in the event you would like to replicate this, here are the requirements:
+However, in the event you would like to replicate this, I have stated the requirements in requirements.txt
 
-NumPy, Pandas, Matplotlib, Scikitlearn
-
-They are also in the requirements.txt document that I have stated.
+To download the requirements, simple use `pip install -r requirements.txt`.
 
 ### Why are you doing this?
 I realise that people oftentimes do not know what they're doing in IT1244, and they require additional help. Therefore, this is something that I have decided to invest in.
