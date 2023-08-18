@@ -29,6 +29,7 @@ You can, however, skip the additional models section if needed be especially bec
 
 ### Version updates:
 V1.0 - Created 6 new lessons, Git, Pandas, KNN, Linear Regression, Logistic Regression, and K-Means Clustering.
+
 V1.1 - Created additional lesson on tree-based models with decision trees, random forests and gradient boosting.
 
 ## Credits
