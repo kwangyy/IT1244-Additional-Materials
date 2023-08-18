@@ -27,6 +27,9 @@ You can, however, skip the additional models section if needed be especially bec
 2. If you'd like to add to the repo, you can send me a message on my [Telegram @foodfoundations](https://t.me/foodfoundations) (might change) or you can always contact me on [Linkedin (will never change)](https://www.linkedin.com/in/kwang-yang-chia/). We can discuss before you create any content!
 3. Give feedback to prof about my efforts so that this could be integrated into the IT1244 curriculum itself :p
 
+### Version updates:
+V1.0 - Created 6 new lessons, Git, Pandas, KNN, Linear Regression, Logistic Regression, and K-Means Clustering.
+V1.1 - Created additional lesson on tree-based models with decision trees, random forests and gradient boosting.
 
 ## Credits
 Credits to these datasets:
